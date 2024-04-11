@@ -1,16 +1,30 @@
-### Hi there 👋
+Hi there 👋, I am Hamza Hassan
 
-<!--
-**hamza-5348/hamza-5348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer | Full-stack JavaScript | Node/React developer | Web developer
 
-Here are some ideas to get you started:
+📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programmer specialized in web development using multiple tools, frameworks and libraries both in frontend and backend. I pay a lot of attention to detail to generate best products.
+
+💻 Languages and Tools: 🛠️
+
+Git GitHub Visual Studio Code HTML5 CSS3 Sass Font Awesome JavaScript jQuery Bootstrap JSON React Redux Nodejs NPM socket.io Jest PostgreSQL MySQL MongoDB Swagger ESlint Windows
+
+🧐 Knowledge of:
+
+Responsive web design, DOM, Styled Components, React Router, Enzyme, AXIOS, 3rd Party API, Object-Oriented Programming, data structures and algorithms.
+
+🌍 Deployment platforms:
+
+Github PagesGithub Pages Heroku Netlify
+
+🚩 Highlights:
+    Arctic Code Vault Contributor
+
+📚 Working on:
+
+Github Actions Json Web Tokens Material-UI
+
+🤓 Interested:
+
+React Native PHP WordPress Laravel

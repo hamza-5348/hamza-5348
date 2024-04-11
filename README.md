@@ -1,30 +1,55 @@
-Hi there 👋, I am Hamza Hassan
+Greetings! 👋 I'm Hamza Hassan, a software developer specializing in full-stack JavaScript, with a focus on Node.js and React.js. I'm deeply passionate about continuous learning, both in the realm of technology and life itself. My journey began with self-taught development, and I've since honed my skills to become proficient in a wide range of tools and frameworks.
 
-Software developer | Full-stack JavaScript | Node/React developer | Web developer
+As a programmer, I thrive on the intricacies of web development, meticulously crafting solutions that leverage the latest tools and technologies. My expertise spans both frontend and backend development, where I prioritize attention to detail to deliver top-notch products.
 
-📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.
+Here's a glimpse of the languages and tools I wield:
+- Git
+- GitHub
+- Visual Studio Code
+- HTML5
+- CSS3
+- Sass
+- Font Awesome
+- JavaScript
+- jQuery
+- Bootstrap
+- JSON
+- React
+- Redux
+- Node.js
+- NPM
+- socket.io
+- Jest
+- PostgreSQL
+- MySQL
+- MongoDB
+- Swagger
+- ESlint
+- Windows
 
-Programmer specialized in web development using multiple tools, frameworks and libraries both in frontend and backend. I pay a lot of attention to detail to generate best products.
+My knowledge extends to various facets of web development, including:
+- Responsive web design
+- DOM manipulation
+- Styled Components
+- React Router
+- Enzyme
+- AXIOS
+- 3rd Party APIs
+- Object-Oriented Programming
+- Data structures and algorithms
 
-💻 Languages and Tools: 🛠️
+For deployment, I'm well-versed in platforms such as:
+- GitHub Pages
+- Heroku
+- Netlify
 
-Git GitHub Visual Studio Code HTML5 CSS3 Sass Font Awesome JavaScript jQuery Bootstrap JSON React Redux Nodejs NPM socket.io Jest PostgreSQL MySQL MongoDB Swagger ESlint Windows
+Notable achievements include being recognized as an Arctic Code Vault Contributor.
 
-🧐 Knowledge of:
+Currently, I'm actively engaged in projects involving:
+- GitHub Actions
+- JSON Web Tokens
+- Material-UI
 
-Responsive web design, DOM, Styled Components, React Router, Enzyme, AXIOS, 3rd Party API, Object-Oriented Programming, data structures and algorithms.
+And I'm eager to explore areas like React Native, PHP, WordPress, and Laravel.
 
-🌍 Deployment platforms:
-
-Github PagesGithub Pages Heroku Netlify
-
-🚩 Highlights:
-    Arctic Code Vault Contributor
-
-📚 Working on:
-
-Github Actions Json Web Tokens Material-UI
-
-🤓 Interested:
-
-React Native PHP WordPress Laravel
+Let's collaborate and innovate together! 🚀

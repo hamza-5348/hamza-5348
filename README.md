@@ -18,3 +18,5 @@ Catch me deploying on GCP, AWS, Azure using GitHub Actions and other CI/CDs.
 Currently brewing up spells with GitHub Actions, JSON Web Tokens, and Material-UI. 
 
 Let's create some magic together! ✨
+
+📫 Reach me at: hamza.hassan.5348@gmail.com
